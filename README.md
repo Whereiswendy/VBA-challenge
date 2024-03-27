@@ -16,6 +16,6 @@ The steps for using this script are as follows:
 
 ---
 
-###Please note: 
+### Please note:
 
 The file called "Multiple_year_stock_data.xlsx", which is the file provided for this challenge, was too large to upload to Github.
